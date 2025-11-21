@@ -1,33 +1,39 @@
-#cookie{
-    position:fixed;
-    bottom:20px;
-    left:50px;
-    background: white;
-    padding:10px;
-    border: 1px solid rgb(184, 180, 180);
-    border-radius: 30px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
+#cookie {
+  position: fixed;
+  bottom: 20px;
+  left: 50px;
+  background: white;
+  padding: 10px;
+  border: 1px solid rgb(184, 180, 180);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 #cookie img {
-    width:45px
+  width: 45px;
 }
 
 #cookie button {
-    background: rgb(5, 5, 57);
-    color:white;
-    padding:2px ;
-    border:none;
-    border-radius: 8px;
-    cursor: pointer;
+  background: rgb(5, 5, 57);
+  color: white;
+  padding: 2px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
 }
 
-#contact-icon{
-    position:fixed;
-    right:50px;
-    top:87%;
-    width:50px;
-    height:40px;
+#contact-icon {
+  position: fixed;
+  right: 50px;
+  top: 87%;
+  width: 50px;
+  height: 40px;
+}
+
+div.home {
+  height: 100px;
+  width: 100px;
+  position: static;
 }
