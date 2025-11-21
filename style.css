@@ -157,3 +157,19 @@ div.outline {
   font-size: large;
   text-emphasis-color: inherit;
 }
+
+div.box {
+  background-color: gray;
+}
+
+div.absolute {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-block-end: 100px;
+  background-color: rgb(197, 210, 211);
+}
+
+div.end {
+  background-color: gray;
+}
