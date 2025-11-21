@@ -34,6 +34,126 @@
 
 div.home {
   height: 100px;
-  width: 100px;
+  width: 200px;
   position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.intro {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.syn {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.selector {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.howto {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.comments {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  text-emphasis-color: inherit;
+  font-size: large;
+}
+
+div.errors {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.back {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.border {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.margin {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.padding {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.height {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.model {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.outline {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
 }
