@@ -162,14 +162,25 @@ div.box {
   background-color: gray;
 }
 
+div.box {
+  background-color: gray;
+}
 div.absolute {
-  width: 100px;
+  width: 75px;
   height: 100px;
-  display: inline-block;
-  margin-block-end: 100px;
   background-color: rgb(197, 210, 211);
+  position: absolute;
+  right: 5px;
 }
 
-div.end {
-  background-color: gray;
+div.sticky {
+  position: sticky;
+  top: 20px;
+  background-color: antiquewhite;
+}
+
+div.stick {
+  position: sticky;
+  bottom: 20px;
+  background-color: antiquewhite;
 }
