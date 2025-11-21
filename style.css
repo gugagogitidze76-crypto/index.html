@@ -1,0 +1,186 @@
+#cookie {
+  position: fixed;
+  bottom: 20px;
+  left: 50px;
+  background: white;
+  padding: 10px;
+  border: 1px solid rgb(184, 180, 180);
+  border-radius: 30px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+#cookie img {
+  width: 45px;
+}
+
+#cookie button {
+  background: rgb(5, 5, 57);
+  color: white;
+  padding: 2px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#contact-icon {
+  position: fixed;
+  right: 50px;
+  top: 87%;
+  width: 50px;
+  height: 40px;
+}
+
+div.home {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.intro {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.syn {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.selector {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.howto {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.comments {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  text-emphasis-color: inherit;
+  font-size: large;
+}
+
+div.errors {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.back {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.border {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.margin {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.padding {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.height {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.model {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.outline {
+  height: 100px;
+  width: 200px;
+  position: static;
+  background-color: gray;
+  font-size: large;
+  text-emphasis-color: inherit;
+}
+
+div.box {
+  background-color: gray;
+}
+
+div.box {
+  background-color: gray;
+}
+div.absolute {
+  width: 75px;
+  height: 100px;
+  background-color: rgb(197, 210, 211);
+  position: absolute;
+  right: 5px;
+}
+
+div.sticky {
+  position: sticky;
+  top: 20px;
+  background-color: antiquewhite;
+}
+
+div.stick {
+  position: sticky;
+  bottom: 20px;
+  background-color: antiquewhite;
+}
